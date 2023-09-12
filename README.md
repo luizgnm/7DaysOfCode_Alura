@@ -5,7 +5,7 @@ Escopo do projeto: Uma empresa fictícia de TI quer desenvolver uma página dest
 [Referência do Figma](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?type=design&node-id=0-1&mode=design&t=yoThu3i0nbevRCec-0).<br>
 -
 <br>
-Desenvolvimento:<br>
+**Desenvolvimento**:<br>
 <br>
 DIA 1: Desenvolvido o Navbar, que contempla o logo, o menu com as páginas e também os dois botões do canto direito.<br>
 <br>
@@ -21,4 +21,9 @@ DIA 6: Desenvolvida a seção de depoimentos, com um pequeno texto, um título e
 <br>
 DIA 7: Último dia, desenvolvido o footer da página ("rodapé"). Criado um título, um pequeno texto, um formulário de preenchimento de e-mail, e um botão. Além disso um texto de copyright logo abaixo.<br>
 <br>
--
+-<br>
+<br>
+Observações:<br>
+<br>Durante o desenvolvimento me questionei várias vezes sobre quais proporções do Figma eram necessárias ou não, por isso posso ter exagerado no CSS sem necessidade. Porém o desafio foi muito importante para o meu desenvolvimento e para testar os meus conhecimentos. Vamos seguindo sempre praticando!<br>
+<br>
+Projeto concluído
