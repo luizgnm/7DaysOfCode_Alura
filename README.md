@@ -26,4 +26,4 @@ DIA 7: Último dia, desenvolvido o footer da página ("rodapé"). Criado um tít
 Observações:<br>
 <br>Durante o desenvolvimento me questionei várias vezes sobre quais proporções do Figma eram necessárias ou não, por isso posso ter exagerado no CSS sem necessidade. Porém o desafio foi muito importante para o meu desenvolvimento e para testar os meus conhecimentos. Vamos seguindo sempre praticando!<br>
 <br>
-Projeto concluído.
+[Projeto concluído](https://luizgnm.github.io/7DaysOfCode_Alura/).
