@@ -5,6 +5,7 @@ Escopo do projeto: Uma empresa fictícia de TI quer desenvolver uma página dest
 [Referência do Figma](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?type=design&node-id=0-1&mode=design&t=yoThu3i0nbevRCec-0).
 <br>
 Desenvolvimento:<br>
+<br>
 DIA 1: Desenvolvido o Navbar, que contempla o logo, o menu com as páginas e também os dois botões do canto direito.<br>
 <br>
 DIA 2: Desenvolvido a primeira seção da landing page ("cabeçalho").<br>
